@@ -1,7 +1,7 @@
 # Projeto de introdução à Robótica, UFRN
 #EN
 This program is used to control the arm lynx motion AL5D.
-The communication with the controller SSC-32 through the serial port is made with a userspace driver. The graphical interface was developped using the xlib.
+The communication with the controller SSC-32 through the serial port is made with an userspace driver. The graphical interface was developped using the xlib.
 
 #PT-BR
 Esse programa controla o braço lynx motion AL5D.
